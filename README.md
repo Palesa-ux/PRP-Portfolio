@@ -13,7 +13,7 @@ I am a final-year Diploma in ICT: Application Development student at Cape Penins
 
 # Curriculum Vitae (CV)
 
-[Download my CV](Ntombozuko Mchophele CV.pdf)
+[Download my CV](Ntombozuko%20Mchophele%20CV.pdf)
 
 ---
 
