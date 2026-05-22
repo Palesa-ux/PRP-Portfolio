@@ -18,14 +18,10 @@ I am a final-year Diploma in ICT: Application Development student at Cape Penins
 ---
 
 # Technical Skills
-
-| Skill Category | Technologies |
-|---|---|
-| Programming | Java, JavaScript |
-| Web Development | HTML, CSS |
-| Database | MySQL |
-| Operating Systems | Linux |
-| Tools | GitHub, VS Code |
+- Programming: Java, JavaScript
+- Web Development: HTML, CSS
+- Database: MySQL
+- Operating Systems: Linux
 
 ---
 
