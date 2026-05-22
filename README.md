@@ -122,6 +122,6 @@ To gain practical experience in the ICT industry, improve my technical skills, a
 
 # Connect With Me
 
-- GitHub: https://github.com/Palesa-ux
-- LinkedIn: https://linkedin.com/in/palesa-mchophele
-- Email: 240455789@mycput.ac.za
+* GitHub: [Palesa-ux](https://github.com/Palesa-ux)
+* LinkedIn: [Palesa Mchophele](https://linkedin.com/in/palesa-mchophele)
+* Email: [240455789@mycput.ac.za](mailto:240455789@mycput.ac.za)
