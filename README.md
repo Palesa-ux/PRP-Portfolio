@@ -1,10 +1,17 @@
 # Ntombozuko Palisa Mchophele - Digital Portfolio
 
+## Connect With Me
+- GitHub: [Palesa-ux](https://github.com/Palesa-ux)
+- LinkedIn: [Palesa Mchophele](https://linkedin.com/in/palesa-mchophele)
+- Email: [240455789@mycput.ac.za](mailto:240455789@mycput.ac.za)
+
 ## Profile
 Final-year ICT Application Development student aiming to gain hands-on experience. I am curious about technology and passionate about software development, web development, and problem-solving. Eager to bring a disciplined, production-focused mindset and a drive to create reliable and efficient solutions and learn from a professional development team.
 
-## Curriculum Vitae (CV)
-[Download my CV](Ntombozuko%20Mchophele%20CV.pdf)
+
+## Education
+### Information Communication Technology - Application Development
+**Cape Peninsula University of Technology (CPUT):** 2024 - Present
 
 ## Technical Skills
 - **Programming Language:** Java, JavaScript
@@ -26,6 +33,10 @@ Final-year ICT Application Development student aiming to gain hands-on experienc
 Watch my mock interview video below:
 
 https://github.com/user-attachments/assets/fc11f9f9-375a-46f2-9110-abda7ce9a0a1
+
+## Project Evidence
+- **See screenshot for part of the Student Enrolment System**
+- **See screenshot for part of the Mbono Pest & Hygiene Website**
 
 ## STAR Method Reflection
 ### 1. Reflection on Coding in Markdown
@@ -55,8 +66,16 @@ Using GitHub Pages taught me the fundamentals of static site hosting and continu
 # Career Goals
 To gain practical experience in the ICT industry, improve my technical skills, and continue learning about technology and software development. I hope to grow professionally while contributing positively in a collaborative work environment.
 
-# Connect With Me
+# Agile Portfolio Of Evidence
+**Project:** Pretoria Prime Recycling
 
-* GitHub: [Palesa-ux](https://github.com/Palesa-ux)
-* LinkedIn: [Palesa Mchophele](https://linkedin.com/in/palesa-mchophele)
-* Email: [240455789@mycput.ac.za](mailto:240455789@mycput.ac.za)
+## Agile Team Charter
+### Evidence 
+**Project:** Pretoria Prime Recycling
+
+**Assigned role:** Operations & Logistics Specialist
+
+**Charter Artefact:**
+
+**My Contribution:**
+My role in this project was to support the operational and logistical activities required to make the recycling service practical and reliable. My allocated responsibilities included planning the weekly collection schedules, coordinating protective equipment and recycling bins, and managing the arrangements for external recycling partner drop-offs.
