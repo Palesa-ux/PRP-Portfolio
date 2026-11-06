@@ -78,4 +78,22 @@ To gain practical experience in the ICT industry, improve my technical skills, a
 **Charter Artefact:**
 
 **My Contribution:**
+
 My role in this project was to support the operational and logistical activities required to make the recycling service practical and reliable. My allocated responsibilities included planning the weekly collection schedules, coordinating protective equipment and recycling bins, and managing the arrangements for external recycling partner drop-offs.
+
+### Reflection
+**Situation:**
+
+Our team established Pretoria Prime Recycling to address poor waste management and inconvenient recycling disposal among homeowners in Silver Lakes, Pretoria. To achieve this objective, we needed a clear team structure, defined responsibilities and effective working agreements to guide the project.
+
+**Task:**
+
+As the Operational & Logistics Specialist, my responsibility was to focus on the operational requirements of the recycling service. This included planning collection schedules, coordinating the necessary equipment and bins, and managing external recycling partner drop-offs.
+
+**Action:**
+
+The Agile Team Charter documented my responsibilities and explained how my role contributes to the team's overall objectives. I was allocated responsibility for the logistical planning required to support weekly collections and the coordination of resources needed for recycling operations. The charter also established communication channels, working agreements and decision-making procedures to help the team coordinate its activities.
+
+**Result and Learning:**
+
+Developing the Agile Team Charter helped establish a cleaner understanding of my responsibilities and how operations and logistics contribute to the success of the project. I learned that successful project delivery requires proper planning, resource coordination, accountability and communication. I also gained a better understanding of how different Agile team roles work together towards a shared project goal.
