@@ -67,9 +67,8 @@ Using GitHub Pages taught me the fundamentals of static site hosting and continu
 To gain practical experience in the ICT industry, improve my technical skills, and continue learning about technology and software development. I hope to grow professionally while contributing positively in a collaborative work environment.
 
 # Agile Portfolio Of Evidence
-**Project:** Pretoria Prime Recycling
 
-## Agile Team Charter
+## Agile Team Charter: Evidence & Reflection
 ### Evidence 
 **Project:** Pretoria Prime Recycling
 
@@ -97,3 +96,45 @@ The Agile Team Charter documented my responsibilities and explained how my role 
 **Result and Learning:**
 
 Developing the Agile Team Charter helped establish a cleaner understanding of my responsibilities and how operations and logistics contribute to the success of the project. I learned that successful project delivery requires proper planning, resource coordination, accountability and communication. I also gained a better understanding of how different Agile team roles work together towards a shared project goal.
+
+## User Stories and Tasks
+### Evidence
+
+### Reflection
+
+## Product Backlog: Evidence & Reflection
+
+### Evidence
+
+The Pretoria Prime Recycling team uses Trello to organize, prioritize and manage the activities involved in developing the project. The Product Backlog contains the tasks and requirements addressed throughout the project.
+
+The Trello board is organized into 3 main lists:
+- **Product Backlog:** Tasks and requirements identified for the project.
+- **Completed Sprint Backlog:** Tasks recorded as completed.
+- **In Progress:** Task recorded as currently being worked on.
+
+At the time the screenshot was the Trello Board displayed:
+- Product Backlog: 22 cards.
+- Completed Sprint Backlog: 19 cards.
+- In Progress: 3 cards.
+
+Although the board still displayed tasks under Product Backlog and In Progress, the team had completed all the work recorded on the board. The Trello board had not yet been updated to reflect the actual completion status of the activities.
+
+The table below highlights examples of the project activities and their suggested priorities based on their importance to the project:
+
+|Sprint Grouping | Suggested Priority | Reason for Priority |
+| --- | --- | --- |
+| Concept Validation & Foundation | High | To establish the project's purpose and determine whether the recycling idea addresses a real community problem. |
+| Project Initiation | High | To establish project objectives, scope and team responsibilities. |
+| Requirements Gathering | High | To identify customer needs and  determine the requirements of the recycling service. |
+| User Stories[Foundation] | High | To identify the features functionality required by the target users. |
+| Customer & Market Research | High | To understand the target market, customer needs and potential demand for the service. |
+| Business Model & Operation Planning | High | To plan how the recycling service will operate and how resources will be coordinated. |
+
+
+
+
+
+
+
+
