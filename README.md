@@ -102,23 +102,11 @@ Developing the Agile Team Charter helped establish a cleaner understanding of my
 
 ### Reflection
 
-## Product Backlog: Evidence & Reflection
+## Product Backlog
 
 ### Evidence
 
-The Pretoria Prime Recycling team uses Trello to organize, prioritize and manage the activities involved in developing the project. The Product Backlog contains the tasks and requirements addressed throughout the project.
-
-The Trello board is organized into 3 main lists:
-- **Product Backlog:** Tasks and requirements identified for the project.
-- **Completed Sprint Backlog:** Tasks recorded as completed.
-- **In Progress:** Task recorded as currently being worked on.
-
-At the time the screenshot was the Trello Board displayed:
-- Product Backlog: 22 cards.
-- Completed Sprint Backlog: 19 cards.
-- In Progress: 3 cards.
-
-Although the board still displayed tasks under Product Backlog and In Progress, the team had completed all the work recorded on the board. The Trello board had not yet been updated to reflect the actual completion status of the activities.
+The planning of Pretoria Prime Recycling involved identifying the activities and requirements necessary to establish the proposed recycling service. These activities were organised on Trello, providing the team with a central reference for project tasks such as concept validation, customer research, requirements gathering, user stories and operational planning.
 
 The table below highlights examples of the project activities and their suggested priorities based on their importance to the project:
 
@@ -131,10 +119,84 @@ The table below highlights examples of the project activities and their suggeste
 | Customer & Market Research | High | To understand the target market, customer needs and potential demand for the service. |
 | Business Model & Operation Planning | High | To plan how the recycling service will operate and how resources will be coordinated. |
 
+These activities help the team organise project requirements, establish priorities and monitor progress throughout the development process.
+
+**My Contribution:**
+
+As the Operations & Logistics Specialist, my responsibilities include planning collection schedules, coordinating protective equipment and recycling bins, and managing external recycling partner drop-offs. These responsibilities contribute to ensuring that the proposed recycling service can operate efficiently.
+
+**Supporting Evidence**
+
+View the Pretoria Prime Recycling Product Backlog on Trello:
+
+[View Product Backlog – Pretoria Prime Recycling](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog)
+
+### Reflection
+**Situation:**
+
+During the Pretoria Prime Recycling project, our team had several activities and requirements that needed to be organised and completed. These included project planning, gathering requirements, conducting customer research, developing user stories and planning the operational activities of the recycling service.
+
+**Task:**
+
+As the Operations & Logistics Specialist, my responsibility was to understand the project requirements and how the planned activities supported the operational side of the recycling service. This included considering collection schedules, equipment, recycling bins and external recycling partnerships.
+
+**Action:**
+
+Our team used Trello to organise project activities, manage the product backlog and monitor progress. I used the board to understand the different activities involved in the project and how they contributed to its objectives. I also considered how operational planning and resource coordination supported the overall project.
+
+**Result and Learning:**
+
+Through this process, I learned how a product backlog helps a team organise project requirements, prioritise activities and work towards shared objectives. I also gained a better understanding of the importance of operational planning, resource management and teamwork in project development. This experience improved my understanding of Agile project management and how tools such as Trello support collaboration and accountability.
 
 
+## Sprint Backlog
 
+### Evidence
 
+Sprint 15 concentrated on developing the business and operational plans for Pretoria Prime Recycling. The activities selected for this sprint addressed important areas such as revenue generation, pricing, recycling processes, resource requirements, organisational responsibilities and transportation planning.
 
+**Sprint 15 - Business Model & Operations Planning**
 
+**Sprint Goal**
 
+The goal of this sprint was to establish a practical business and operational structure for Pretoria Prime Recycling by identifying revenue opportunities, defining the recycling workflow and determining the resources required to run the service.
+
+**Selected Tasks**
+
+The following activities were included in Sprint 15:
+1. Define revenue streams and pricing structure.
+2. Map the operational workflow, including collection, sorting, processing and sale.
+3. Identify the staff, equipment and suppliers required for operations.
+4. Establish the organisational structure and define team responsibilities.
+5. Identify vehicle requirements, logistics considerations and collection route planning needs.
+
+**Sprint Outcome**
+
+The team completed the activities included in this sprint. These tasks helped establish a clearer understanding of how Pretoria Prime Recycling would operate, the resources needed to support its activities and how recyclable materials would move through the collection and processing process.
+
+As the Operations & Logistics Specialist, the operational workflow, equipment requirements, supplier identification and vehicle and route planning activities were particularly relevant to my allocated responsibilities.
+
+**Supporting Evidence**
+
+View the Sprint 15 card on Trello:
+
+[Sprint 15 - Business Model & Operational Planning](https://trello.com/c/OC28ZlMG/67-sprint-15-business-model-operations-planning)
+
+### Reflection
+**Situation:**
+
+During the development of Pretoria Prime Recycling, the team needed to establish a realistic business and operational structure for the proposed recycling service. This involved considering how recyclable materials would be collected, sorted and processed, as well as identifying the resources required to support these activities.
+
+**Task:**
+
+As the Operations & Logistics Specialist, my allocated responsibilities involved planning collection schedules, coordinating protective equipment and recycling bins, and managing external recycling partner drop-offs. This sprint was particularly relevant because its activities addressed several of the operational requirements associated with my role.
+
+**Action:**
+
+The sprint involved identifying the operational workflow, determining the necessary staff, equipment and suppliers, and considering vehicle requirements and collection routes. I focused on understanding how these activities related to my responsibilities and how proper logistical planning could support the proposed weekly recycling collection service.
+
+**Result and Learning:**
+
+The team completed the activities planned for this sprint, contributing towards a clearer operational and business structure for Pretoria Prime Recycling. Through this process, I learned that successful recycling operations require more than collecting recyclable materials. They also depend on effective resource management, suitable transportation, organised collection routes and reliable partnerships.
+
+This experience strengthened my understanding of operational planning and helped me recognise the importance of logistics in turning a business idea into a practical service.
