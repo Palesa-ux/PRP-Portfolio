@@ -69,6 +69,7 @@ https://github.com/user-attachments/assets/fc11f9f9-375a-46f2-9110-abda7ce9a0a1
 ## Agile Team Charter: Evidence & Reflection
 
 ### Evidence 
+
 [Agile Team Charter updated.pdf](https://github.com/user-attachments/files/35244456/Agile.Team.Charter.updated.pdf)
 
 **Project:** Pretoria Prime Recycling
@@ -77,8 +78,7 @@ https://github.com/user-attachments/assets/fc11f9f9-375a-46f2-9110-abda7ce9a0a1
 
 **Charter Artefact:**
 
-<img width="770" height="578" alt="WhatsApp Image 2026-11-22 at 21 57 38" src="https://github.com/user-attachments/assets/cb5dc215-3073-45b8-85d9-a552f202bcff" />
-
+<img width="770" height="578" alt="WhatsApp Image 2026-11-22 at 21 57 38" src="https://github.com/user-attachments/assets/75c3fb30-6ebe-41f9-afb4-3433a8f86df5" />
 
 **My Contribution:**
 
@@ -259,8 +259,10 @@ The logbook below records selected sprint activities and the dates provided for 
 
 **Product Activity Log**
 
-| Date | Sprint/Activity | Work Completed | Outcome |
-| --- | --- | --- | --- |
+#### Project Activity Log
+
+| Date | Sprint / Activity | Work Completed | Outcome |
+|---|---|---|---|
 | 23 July 2026 | Sprint 15 – Business Model & Operations Planning | Worked on revenue streams, pricing, operational workflow, resource requirements, organisational structure and logistics planning. | The team completed the planned business and operational planning activities. |
 | 5 August 2026 | Sprint 8 – Customer & Market Research | Worked on activities relating to customer and market research. | The team completed the activities recorded for this sprint. |
 | 6 August 2026 | Sprint 5 – User Stories [Foundation] | Worked on developing and organising the foundational user stories. | The team completed the recorded user story activities. |
