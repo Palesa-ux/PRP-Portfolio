@@ -75,7 +75,9 @@ https://github.com/user-attachments/assets/fc11f9f9-375a-46f2-9110-abda7ce9a0a1
 
 **Assigned role:** Operations & Logistics Specialist
 
-**Charter Artefact:**<img width="770" height="578" alt="WhatsApp Image 2026-11-22 at 21 57 38" src="https://github.com/user-attachments/assets/cb5dc215-3073-45b8-85d9-a552f202bcff" />
+**Charter Artefact:**
+
+<img width="770" height="578" alt="WhatsApp Image 2026-11-22 at 21 57 38" src="https://github.com/user-attachments/assets/cb5dc215-3073-45b8-85d9-a552f202bcff" />
 
 
 **My Contribution:**
@@ -256,12 +258,14 @@ This experience strengthened my understanding of operational planning and helped
 The logbook below records selected sprint activities and the dates provided for them. It gives a chronological view of work undertaken during the project. The descriptions are kept at the level supported by the sprint titles and details available from the Trello board.
 
 **Product Activity Log**
+
 | Date | Sprint/Activity | Work Completed | Outcome |
 | --- | --- | --- | --- |
 | 23 July 2026 | Sprint 15 – Business Model & Operations Planning | Worked on revenue streams, pricing, operational workflow, resource requirements, organisational structure and logistics planning. | The team completed the planned business and operational planning activities. |
 | 5 August 2026 | Sprint 8 – Customer & Market Research | Worked on activities relating to customer and market research. | The team completed the activities recorded for this sprint. |
 | 6 August 2026 | Sprint 5 – User Stories [Foundation] | Worked on developing and organising the foundational user stories. | The team completed the recorded user story activities. |
 | 6 August 2026 | Sprint 7 – Engagement & Polish [User Stories] | Worked on improving and refining the user stories. | The team completed the activities included in this sprint. |
+
 
 **My Contribution**
 
