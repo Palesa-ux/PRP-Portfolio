@@ -2,7 +2,6 @@
 
 ## Connect With Me
 - GitHub: [Palesa-ux](https://github.com/Palesa-ux)
-- LinkedIn: [Palesa Mchophele](https://linkedin.com/in/palesa-mchophele)
 - Email: [240455789@mycput.ac.za](mailto:240455789@mycput.ac.za)
 
 ## Profile
@@ -100,7 +99,7 @@ The Agile Team Charter recorded my role and explained how it fits within the tea
 
 The charter helped clarify my responsibilities and the way they contribute to the project. I learned that an agreed team structure, clear communication and accountability are important when several people are working towards the same goal. I also gained a better understanding of how operational and logistical work supports the delivery of a service.
 
-## User Stories and Tasks
+## User Stories and Tasks: Evidence & Reflection
 ### Sprint 15 (Day 2) - Operational Workflow Planning
 [View Sprint 15 (Day 2)](https://trello.com/c/D8hedixI/114-sprint-15-business-model-operations-planning)
 
@@ -149,7 +148,7 @@ I considered how the different stages of the recycling process would connect, fr
 
 The team completed all five tasks, providing a clearer operational workflow for the proposed recycling service. I learned that effective recycling operations require proper planning and coordination at every stage. I also gained a better understanding of how collection procedures, material handling, transportation and external partnerships contribute to an organised recycling service.
 
-## Product Backlog
+## Product Backlog: Evidence & Reflection
 
 ### Evidence
 
@@ -194,7 +193,7 @@ I referred to the Trello board to review the different project activities and un
 I learned that a product backlog gives a team an organised view of the work required to achieve its objectives. I also learned that identifying and prioritising requirements helps a team focus on important activities and understand dependencies between different parts of a project. This improved my understanding of how operational planning fits into the wider project.
 
 
-## Sprint Backlog
+## Sprint Backlog: Evidence & Reflection
 
 ### Evidence
 
@@ -248,3 +247,49 @@ The sprint involved identifying the operational workflow, determining the necess
 The team completed the activities planned for this sprint, contributing towards a clearer operational and business structure for Pretoria Prime Recycling. Through this process, I learned that successful recycling operations require more than collecting recyclable materials. They also depend on effective resource management, suitable transportation, organised collection routes and reliable partnerships.
 
 This experience strengthened my understanding of operational planning and helped me recognise the importance of logistics in turning a business idea into a practical service.
+
+## Agile Logbook: Evidence & Reflection
+
+### Evidence
+
+The logbook below records selected sprint activities and the dates provided for them. It gives a chronological view of work undertaken during the project. The descriptions are kept at the level supported by the sprint titles and details available from the Trello board.
+
+**Product Activity Log**
+| Date | Sprint/Activity | Work Completed | Outcome |
+| --- | --- | --- | --- |
+| 23 July 2026 | Sprint 15 – Business Model & Operations Planning | Worked on revenue streams, pricing, operational workflow, resource requirements, organisational structure and logistics planning. | The team completed the planned business and operational planning activities. |
+| 5 August 2026 | Sprint 8 – Customer & Market Research | Worked on activities relating to customer and market research. | The team completed the activities recorded for this sprint. |
+| 6 August 2026 | Sprint 5 – User Stories [Foundation] | Worked on developing and organising the foundational user stories. | The team completed the recorded user story activities. |
+| 6 August 2026 | Sprint 7 – Engagement & Polish [User Stories] | Worked on improving and refining the user stories. | The team completed the activities included in this sprint. |
+
+**My Contribution**
+
+As the Operations & Logistics Specialist, my responsibilities involved supporting the operational planning of Pretoria Prime Recycling. These included planning collection schedules, coordinating protective equipment and recycling bins, and managing arrangements for drop-offs with external recycling partners.
+
+Sprint 15 was particularly relevant to my role because it focused on transportation requirements, logistics planning, operational workflows and resource coordination. The other sprint activities also helped me understand the customer needs and requirements that would influence the way the recycling service should operate.
+
+**Supporting Evidence**
+
+The Trello board contains the project's sprint activities and task records, providing supporting evidence of the team's planning and progress.
+
+[View Pretoria Prime Recycling - Trello Board](https://trello.com/b/PBGG0Zb2/pretoria-prime-recycling-product-backlog)
+
+### Reflection
+
+**Situation:**
+
+Throughout the Pretoria Prime Recycling project, our team worked on different activities to establish the business concept and prepare the proposed recycling service for implementation. These activities included researching the target market, developing user stories and planning the operational requirements of the business.
+
+**Task:**
+
+My responsibility as the Operations & Logistics Specialist was to understand the operational requirements of the project and consider how logistics and resource coordination would contribute to the successful delivery of the recycling service.
+
+**Action:**
+
+The team used Trello to organise the different sprint activities and keep track of project tasks. I followed the activities across the sprints, paying particular attention to the business and operational planning work related to my allocated role. This included understanding the requirements for transportation, collection routes, equipment, recycling resources and external partnerships.
+
+**Result and Learning:**
+
+Working through the different project activities helped me understand how Agile teams organise work into smaller sprints and use task tracking to monitor progress. I learned that successful project development requires proper planning, communication and coordination between team members.
+
+I also gained a better understanding of the relationship between business planning and operational activities, particularly the importance of logistics and resource management in delivering a reliable recycling service.
