@@ -215,6 +215,7 @@ The following activities were included in Sprint 15:
 5. Identify vehicle requirements, logistics considerations and collection route planning needs.
 
 **Sprint Backlog Evidence**
+
 <img width="680" height="621" alt="WhatsApp Image 2026-11-23 at 01 46 27" src="https://github.com/user-attachments/assets/19713cab-5513-48da-946c-d061b8bf06de" />
 
 **Sprint Outcome**
